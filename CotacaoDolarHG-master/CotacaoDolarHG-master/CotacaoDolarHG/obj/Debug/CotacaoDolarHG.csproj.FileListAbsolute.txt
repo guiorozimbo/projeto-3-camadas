@@ -1,0 +1,15 @@
+C:\Users\install\Downloads\CotacaoDolarHG-master\CotacaoDolarHG-master\CotacaoDolarHG\bin\Debug\CotacaoDolarHG.exe.config
+C:\Users\install\Downloads\CotacaoDolarHG-master\CotacaoDolarHG-master\CotacaoDolarHG\bin\Debug\CotacaoDolarHG.exe
+C:\Users\install\Downloads\CotacaoDolarHG-master\CotacaoDolarHG-master\CotacaoDolarHG\bin\Debug\CotacaoDolarHG.pdb
+C:\Users\install\Downloads\CotacaoDolarHG-master\CotacaoDolarHG-master\CotacaoDolarHG\bin\Debug\Newtonsoft.Json.dll
+C:\Users\install\Downloads\CotacaoDolarHG-master\CotacaoDolarHG-master\CotacaoDolarHG\bin\Debug\Newtonsoft.Json.xml
+C:\Users\install\Downloads\CotacaoDolarHG-master\CotacaoDolarHG-master\CotacaoDolarHG\obj\Debug\CotacaoDolarHG.csproj.AssemblyReference.cache
+C:\Users\install\Downloads\CotacaoDolarHG-master\CotacaoDolarHG-master\CotacaoDolarHG\obj\Debug\CotacaoDolarHG.csproj.SuggestedBindingRedirects.cache
+C:\Users\install\Downloads\CotacaoDolarHG-master\CotacaoDolarHG-master\CotacaoDolarHG\obj\Debug\CotacaoDolarHG.FrmCotacaoDolar.resources
+C:\Users\install\Downloads\CotacaoDolarHG-master\CotacaoDolarHG-master\CotacaoDolarHG\obj\Debug\CotacaoDolarHG.Properties.Resources.resources
+C:\Users\install\Downloads\CotacaoDolarHG-master\CotacaoDolarHG-master\CotacaoDolarHG\obj\Debug\CotacaoDolarHG.csproj.GenerateResource.cache
+C:\Users\install\Downloads\CotacaoDolarHG-master\CotacaoDolarHG-master\CotacaoDolarHG\obj\Debug\CotacaoDolarHG.csproj.CoreCompileInputs.cache
+C:\Users\install\Downloads\CotacaoDolarHG-master\CotacaoDolarHG-master\CotacaoDolarHG\obj\Debug\CotacaoDolarHG.csproj.CopyComplete
+C:\Users\install\Downloads\CotacaoDolarHG-master\CotacaoDolarHG-master\CotacaoDolarHG\obj\Debug\CotacaoDolarHG.exe
+C:\Users\install\Downloads\CotacaoDolarHG-master\CotacaoDolarHG-master\CotacaoDolarHG\obj\Debug\CotacaoDolarHG.pdb
+C:\Users\install\Downloads\CotacaoDolarHG-master\CotacaoDolarHG-master\CotacaoDolarHG\obj\Debug\ApiInstrutorSenai.FrmInstrutores.resources
